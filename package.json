@@ -1,0 +1,39 @@
+{
+  "name": "ferns-kickandban",
+  "version": "1.0.0",
+  "description": "Ferns KickandBan ensures security and integrity in blockchain environments, offering access control and threat prevention mechanisms.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilonamuskovna/ferns-kickandban"
+  },
+  "author": "ilonamuskovna",
+  "license": "MIT",
+  "dependencies": {
+    "chain-ferns-inspector": "1.0.0",
+    "ferns-kickandban": "1.0.0",
+    "react-redux": "1.0.0",
+    "node-sass": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "underscore": "1.0.0",
+    "sinon": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "request": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "validator": "1.0.0",
+    "eslint": "1.0.0",
+    "react-dom": "1.0.0",
+    "babel-core": "1.0.0",
+    "cheerio": "1.0.0",
+    "web3-utils": "1.0.0",
+    "commander": "1.0.0",
+    "moment": "1.0.0",
+    "webpack": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "helmet": "1.0.0",
+    "dotenv": "1.0.0"
+  }
+}
